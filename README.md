@@ -4,6 +4,9 @@ torch>=1.7.0; torchvision>=0.8.0; pyyaml; timm==0.6.13;
 
 dataset: Tiny ImageNet
 
+## Pretrain Models
+[Checkpoints](https://drive.google.com/drive/folders/1j-sMMejHUJz-b09tEReP_abSf-vhtAFD?usp=drive_link) of LightViT-XS and LightViT have been released.
+
 ## Train
 
 ```torchrun --nproc_per_node=4 train.py -c configs/config.yaml --model lightvit --experiment LightViT```
