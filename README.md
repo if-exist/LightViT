@@ -1,6 +1,6 @@
 ## Requirement
 
-```torch>=1.7.0; torchvision>=0.8.0; pyyaml; timm==0.6.13;``
+torch>=1.7.0; torchvision>=0.8.0; pyyaml; timm==0.6.13;
 
 dataset: Tiny ImageNet
 
