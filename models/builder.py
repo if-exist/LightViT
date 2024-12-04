@@ -2,10 +2,6 @@ import yaml
 import torch
 import logging
 
-from .nas_model import gen_nas_model
-from .darts_model import gen_darts_model
-from .mobilenet_v1 import MobileNetV1
-from . import resnet, lightvit_v1
 
 logger = logging.getLogger()
 
