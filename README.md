@@ -5,7 +5,7 @@ torch>=1.7.0; torchvision>=0.8.0; pyyaml; timm==0.6.13;
 dataset: Tiny ImageNet
 
 ## Pretrain Models
-[Checkpoints](https://drive.google.com/drive/folders/1j-sMMejHUJz-b09tEReP_abSf-vhtAFD?usp=drive_link) of LightViT-XS and LightViT have been released.
+[Checkpoints](https://drive.google.com/drive/folders/1j-sMMejHUJz-b09tEReP_abSf-vhtAFD?usp=drive_link) of LightViT-XS and LightViT-S have been released.
 
 ## Train
 
